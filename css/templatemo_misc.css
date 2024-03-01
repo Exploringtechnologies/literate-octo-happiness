@@ -13,6 +13,27 @@
   -webkit-filter: none !important;
 }
 
+.sprite11
+{
+background:url('css-sprite-combined.png') 0px -0px;
+width:500px;height:500px;
+display:inline-block;
+}
+
+.sprite12
+{
+background:url('css-sprite-combined.png') -500px -0px;
+width:500px;height:500px;
+display:inline-block;
+}
+
+.sprite13
+{
+background:url('../images/gallary/css-sprite-combined.png') -1000px -0px;
+width:500px;height:500px;
+display:inline-block;
+}
+
 #lightbox img {
   display: block;
   position: absolute;
